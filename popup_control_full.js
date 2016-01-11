@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://aocuoisi.net/ct/thue-ao-cuoi-may-ao-cuoi-mua-ao-cuoi/50/ao-cuoi-tre-vai-cao-cap-lee-bridal.html' target='_blank'><img src='http://aocuoisi.net/files/assets/T151202/5.jpg' width='500px'/>Áo cưới trễ vai</a>. Mẫu mới 2016. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://aocuoisi.net/ct/thue-ao-cuoi-may-ao-cuoi-mua-ao-cuoi/50/ao-cuoi-tre-vai-cao-cap-lee-bridal.html' target='_blank'><img src='http://aocuoisi.net/files/assets/T151202/5.jpg' width='500px'/><br>Áo cưới trễ vai</a>. Mẫu mới 2016. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
