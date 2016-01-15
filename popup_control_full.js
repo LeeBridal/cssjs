@@ -1,5 +1,5 @@
-//please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
+//please contact me lee.bridalboutique@gmail.com
+//website http://aocuoisi.net
 
 (function($) {
     $.fn.linhnguyen = function(options) {        
